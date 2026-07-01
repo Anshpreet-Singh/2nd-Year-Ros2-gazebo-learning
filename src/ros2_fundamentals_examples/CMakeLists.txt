@@ -32,7 +32,7 @@ include_directories(
 #ament_target_dependencies(minimal_cpp_subscriber ${dependencies})
 
 install(
-  DIRECTORY ros2_fundamentals_examples
+  DIRECTORY ros2_fundamentals_examples Scripts
   DESTINATION share/${PROJECT_NAME}
 )
 
