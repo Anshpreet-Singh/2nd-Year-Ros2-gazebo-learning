@@ -7,5 +7,9 @@ How to create Ros-2 Python Publisher:
 -> In py_minimal_publisher.py
 -> Understood the working of the py_minimal_publisher.py code and the used modules in the program.
 
+# Day-2 (1st July 2026)
+
+Practised creating Python publisher node :
+-> Py_fake_temp_sensor.py
 
 
