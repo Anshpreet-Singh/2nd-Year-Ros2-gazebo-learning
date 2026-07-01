@@ -56,6 +56,7 @@ install(
   PROGRAMS
   ros2_fundamentals_examples/py_minimal_publisher.py
   ros2_fundamentals_examples/Py_fake_temp_sensor.py
+  ros2_fundamentals_examples/py_minimal_subscriber.py
   DESTINATION lib/${PROJECT_NAME}
 )
 if(BUILD_TESTING)
