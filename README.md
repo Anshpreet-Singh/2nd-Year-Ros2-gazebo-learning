@@ -11,5 +11,21 @@ How to create Ros-2 Python Publisher:
 
 Practised creating Python publisher node :
 -> Py_fake_temp_sensor.py
+-> Py_minimal_publisher.py
 
+Created subscriber Nodes
+->py_minimal_subscriber.py
+
+Created bash script for simultaneous node execution
+->minimal_pub_sub_launch.sh
+
+# Day-3 (2nd July 2026)
+
+Practised creating publisher, subscriber and bash scripts
+->robot_state_publisher.py
+->robot_state_subscriber.py
+->robot_state_pub_sub.sh
+
+Learned to create test srcipt for python based nodes using Pytest
+->test_publisher.py
 
